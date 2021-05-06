@@ -23,7 +23,11 @@ This project thanks to all the people who contribute.
 
 2、两种方式配置密码：
 #### 1) 使用Github Secrets方式 安全、推荐
-进入fork的仓库，点击右上角的`Settings`，选择`Secrets`菜单，点击`New repository secret`。设置一个名为`ACCOUNT_INFO`的secret，其值为学校健康填报网站的用户名和密码（中间用`空格`或`换行符`隔开），具体步骤可参照下图：
+进入fork的仓库，点击右上角的`Settings`，选择`Secrets`菜单，点击`New repository secret`。
+<br>
+**设置一个名为`ACCOUNT_INFO`的secret**
+<br>
+其值为学校健康填报网站的用户名和密码（中间用`空格`或`换行符`隔开），具体步骤可参照下图：
 
 - 选择新建secret
 
